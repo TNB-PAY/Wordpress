@@ -22,11 +22,11 @@ TNBPAY is a free and open-source Woo-commerce plugin which allows you to accept 
 
 
 ## Getting Started
-Download the plugin as a zip file [here](https://github.com/akandejaphet/TNBPay/archive/refs/tags/1.1.0.zip) then install on Wordpress. Please check [Documentation](https://github.com/akandejaphet/TNBPay/blob/master/Documentation/TNBPAY%20Documentation.pdf) for full installation procedure
+Download the plugin as a zip file [here](https://github.com/akandejaphet/TNBPay/archive/refs/tags/1.1.0.zip) then install on Wordpress. Please check [Documentation](https://github.com/TNB-PAY/Wordpress/blob/master/Documentation/TNBPay%20Doc.pdf) for full installation procedure
 
 ## Documentation
 
-Check complete [Documentation](https://github.com/akandejaphet/TNBPay/blob/master/Documentation/TNBPAY%20Documentation.pdf) for details, installation guide, settings, etc.
+Check complete [Documentation](https://github.com/TNB-PAY/Wordpress/blob/master/Documentation/TNBPay%20Doc.pdf) for details, installation guide, settings, etc.
 
 If you have any trouble using TNBPAY, create an issue.
  
